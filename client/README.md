@@ -1,6 +1,6 @@
 
 
-## Project setup
+## Client setup
 ```
 yarn install
 ```

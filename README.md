@@ -2,7 +2,7 @@
 
 
 
-## Client setup
+### Client setup
 ```
 yarn install
 ```
@@ -17,7 +17,7 @@ yarn serve
 yarn build
 ```
 
-## Compiles and Run the Go program
+### Compiles and Run the Go program
 ```
 go run .\server.go
 ```
